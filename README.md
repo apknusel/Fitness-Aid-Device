@@ -1,6 +1,6 @@
 # Wearable Fitness Tracker
 ## Project Overview
-The Wearable Fitness Tracker is a wearable device designed to assist users in monitoring workout intensity and performance. It combines real-time data from a pulse oximeter and a muscle sensor to evaluate heart rate, blood oxygen levels, and muscle engagement. This data is transmitted via Bluetooth Low Energy (BLE) to a web application, enabling users to track their exercise sessions efficiently.
+The Wearable Fitness Tracker is a wearable device designed to assist users in monitoring workout intensity and performance. It combines real-time data from a pulse oximeter and a muscle sensor to evaluate heart rate, blood oxygen levels, and muscle engagement. This data is transmitted via Bluetooth Low Energy (BLE) to a web application ([static version of web app](https://apknusel.github.io/WorkoutTracker/)), enabling users to track their exercise sessions efficiently.
 
 ## Motivation
 The motivation behind this project is trying to find a better way to determine how hard someone is pushing themself while working out. I have seen a lot of people try accelerometers and force sensor to determine how hard someone is working out, but never anyone trying to look at the actual muscle. This was the goal of my project by working with the muscle sensors.
