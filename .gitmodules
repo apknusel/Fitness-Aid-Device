@@ -1,0 +1,3 @@
+[submodule "WorkoutApp"]
+	path = WorkoutApp
+	url = https://github.com/apknusel/WorkoutApp.git
