@@ -38,6 +38,3 @@ The project is designed around a finite state machine with distinct states
 ## Images
 ![device on forearm](./device_forearm.jpg)
 ![device](./device.jpg)
-
-## Formal Report
-![formal report](./Final%20Report.pdf)
