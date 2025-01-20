@@ -1,0 +1,5 @@
+.generated_files
+dist
+debug
+build
+private
